@@ -1,0 +1,19 @@
+body{
+    width: 45%;
+    height: 100vh;
+    border-style: solid ;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+div.main{
+    width: 60%;
+    height: 90vh;
+    margin-left: 5%;
+   
+}
+.middle-heading{
+    color: lightgreen;
+}
+.middle-heading-blue{
+    color: rgb(22, 156, 201);
+}
